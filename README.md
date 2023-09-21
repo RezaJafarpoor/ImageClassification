@@ -1,2 +1,2 @@
 # ImageClassification
-Simple ImageClassification models using CNN for learning purposes
+Simple ImageClassification models using CNN for learning purposes.
